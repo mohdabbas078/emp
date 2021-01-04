@@ -1,6 +1,6 @@
 [
         {
-                "id": 1,
+           
                 "name": "Sarah Rashimi",
 				"dept": "Computer Science",
                 "gender" : "Female",
@@ -8,7 +8,7 @@
                 
         },
 		{
-                "id": 2,
+               
                 "name": "MOHD ABBAS",
 				"dept": "Computer Science",
                 "gender" : "Male",
@@ -16,7 +16,7 @@
                 
         },
 		{
-                "id": 3,
+              
                 "name": "Anup Sharma",
 				"dept": "Computer Science",
                 "gender" : "Male",
@@ -24,7 +24,7 @@
                 
         },
 		{
-                "id": 4,
+        
                 "name": "Apeksha Kanaboor",
 				"dept": "Computer Science",
                 "gender" : "Female",
@@ -32,7 +32,7 @@
                 
         },
 		{
-                "id": 5,
+                
                 "name": "Shazia Naqvi",
 				"dept": "Medical Science",
                 "gender" : "Female",
