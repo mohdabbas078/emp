@@ -38,46 +38,6 @@
                 "gender" : "Female",
 				"imageUrl" :"https://scontent.fblr11-1.fna.fbcdn.net/v/t1.0-9/134298139_193881159154708_7282387939331624768_o.jpg?_nc_cat=107&ccb=2&_nc_sid=09cbfe&_nc_ohc=Boslu0JoZB0AX8ssztM&_nc_ht=scontent.fblr11-1.fna&oh=de07d01cbf234c2ab60d4e8d6de03258&oe=6019DAD3"
                 
-        },
-		{
-                "id": 6,
-                "name": "MOHD Uzair",
-				"dept": "Account",
-                "gender" : "male",
-				"imageUrl" :"https://scontent.fblr11-1.fna.fbcdn.net/v/t1.0-9/22007920_231493097380323_4569430103711623566_n.jpg?_nc_cat=103&ccb=2&_nc_sid=8bfeb9&_nc_ohc=2tZkEadOPKwAX_qUMIS&_nc_ht=scontent.fblr11-1.fna&oh=5713ee92c5f2fe477a4e9968ec43478e&oe=601A07D0"
-                
-        },
-		{
-                "id": 7,
-                "name": "Satyam Chaudhary",
-				"dept": "Sales",
-                "gender" : "male",
-				"imageUrl" :"https://scontent.fblr11-1.fna.fbcdn.net/v/t1.0-9/126481835_2784381831802668_8196539041859273115_n.jpg?_nc_cat=106&cb=846ca55b-311e05c7&ccb=2&_nc_sid=09cbfe&_nc_ohc=ohBfgTCy6iYAX_sGrWZ&_nc_ht=scontent.fblr11-1.fna&oh=2e3d1abbfd18395f1f58bb7ae240ebb5&oe=6019611D"
-                
-        },
-		{
-                "id": 8,
-                "name": "Aashish Kr Jha",
-				"dept": "Computer Science",
-                "gender" : "male",
-				"imageUrl" :"https://scontent.fblr11-1.fna.fbcdn.net/v/t1.0-9/36847745_106861863569373_2769546739554713600_o.jpg?_nc_cat=103&ccb=2&_nc_sid=09cbfe&_nc_ohc=GTY6YY7nlg8AX-NleaK&_nc_ht=scontent.fblr11-1.fna&oh=5998cc0e9741fd610ef3a56faf511dc3&oe=601824E0"
-                
-        },
-		{
-                "id": 9,
-                "name": "Ali Kamber",
-				"dept": "Electrical",
-                "gender" : "male",
-				"imageUrl" :"https://scontent.fblr11-1.fna.fbcdn.net/v/t1.0-9/49279892_1200839836734528_8151724670836539392_o.jpg?_nc_cat=111&ccb=2&_nc_sid=09cbfe&_nc_ohc=O5iaDTJfHoEAX9iv7IG&_nc_ht=scontent.fblr11-1.fna&oh=fbad8cc9de830856f971e879d2f3e027&oe=60184C74"
-                
-        },
-		{
-                "id": 10,
-                "name": "Shabban Raza Naqvi",
-				"dept": "Civil",
-                "gender" : "male",
-				"imageUrl" :"https://scontent.fblr11-1.fna.fbcdn.net/v/t1.0-1/p320x320/71466864_2444156389006633_2404935395155378176_o.jpg?_nc_cat=111&ccb=2&_nc_sid=7206a8&_nc_ohc=Yh7uh39hHUYAX9PSsX1&_nc_ht=scontent.fblr11-1.fna&tp=6&oh=28cdfdb3f2ba8b8c92714844c2e9ab6b&oe=601844BB"
-                
         }
 		
 		]
